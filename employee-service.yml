@@ -1,6 +1,6 @@
 spring:
   boot:
-    message: Hello, Employee Service Config Updated
+    message: Hello, Employee Service Spring Cloud Bus Demo
   application:
     name: EMPLOYEE-SERVICE
   datasource:
