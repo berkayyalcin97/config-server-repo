@@ -1,4 +1,6 @@
 spring:
+  boot:
+    message: Hello, Department Service Config Updated
   application:
     name: EMPLOYEE-SERVICE
   datasource:
